@@ -1,0 +1,17 @@
+package appli;
+
+public class Appli {
+
+	public Appli() {
+		// TODO Auto-generated constructor stub
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+		
+ 		//Toutes les methodes ici
+	}
+
+}
